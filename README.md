@@ -17,7 +17,7 @@ Responsive design for smooth use on all devices
 
 Technology Used:
 
-Frontend: HTML, CSS, Bootstrap, JavaScript
+Frontend: HTML, CSS, JavaScript
 
 Design: Responsive web layout with intuitive user interface
 
